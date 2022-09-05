@@ -426,6 +426,9 @@ nav svg{
 }
 
 @media screen and (max-width: 600px){
+  nav{
+    display: none;
+  }
   .header-text{
     width: 100%;
     margin-left: 0px;
@@ -450,9 +453,6 @@ nav svg{
   }
   .faq-image img{
     width: 100%;
-  }
-  .download-section{
-    /* justify-content: center; */
   }
   .download-email{
     width: 250px;
