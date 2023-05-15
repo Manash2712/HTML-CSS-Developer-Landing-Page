@@ -1,4 +1,4 @@
-# HTML & CSS Developer Landing Page
+# HTML & CSS Developer Landing Page [Deployed Link](https://manash-developer-landing-page.netlify.app/)
 
 ### This page is responsive for mobile screen
 
@@ -12,4 +12,3 @@
 -   Media Queries
 
 ![demo image](./images/thumbnail.png)
-![Deployed Link](https://manash-developer-landing-page.netlify.app/)
